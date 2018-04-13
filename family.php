@@ -13,8 +13,8 @@ body{
 </head>
 <body>
 <h1>MY FAMILY</h1>
-<p><a href="father.php" target="content">Father Info</a></p>
-<p><a href="mother.php" target="content">Mother Info</a></p>
+<p><a href="Father.php" target="content">Father Info</a></p>
+<p><a href="Mother.php" target="content">Mother Info</a></p>
 <p><a href="sister.php" target="content">My Sister's Info</a></p>
 <p><a href="brother.php" target="content">My Brother's Info</a></p>
 </body>
