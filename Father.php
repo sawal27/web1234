@@ -12,7 +12,7 @@ body{
 </head>
 <body>
 <h1><center>FATHER</h1><center>
-<center><img src="papa-Copy.jpg" height="200" width="200"></center>
+<center><img src="mama.jpg" height="200" width="200"></center>
 <p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Alexander</p>
