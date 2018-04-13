@@ -5,13 +5,14 @@
 body{
     font-family:verdana,arial,san-serif;
     margin:30px;
-    background-color:Green;
+    background-color:fuchsia;
    }
 
 </style>
 </head>
 <body>
 <h1><center>MOTHER</h1><center>
+<center><img src="papa.jpg" height="200" width="200"></center>
 <p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Jenely</p>
