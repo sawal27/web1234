@@ -13,7 +13,7 @@ body{
 <body>
 <h1><center>COUSIN</h1><center>
 <center><img src="carl.jpg" height="200" width="200"></center>
-<p><a href="content." target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><b>First Name:</b>Carl Jensen</p>
 <p><b>Middle Name:</b>Cabais</p>
